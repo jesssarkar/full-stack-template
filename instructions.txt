@@ -15,7 +15,7 @@
 
 //----Test Mongo and Port Connection
 
-//6. Set middleware
+//6. Set middleware (ejs,express,cors)
 
 //8. Create Public and Views folders - add main.js and style.css to Public and index.ejs to Views
 
